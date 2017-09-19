@@ -1,0 +1,27 @@
+{
+  "name": "power-control",
+  "version": "1.0.0",
+  "description": "Simple cross-platform Node.js module that provides power off and restart functionality.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonnilsson/power-control.git"
+  },
+  "keywords": [
+    "Node.js",
+    "power",
+    "restart"
+  ],
+  "author": "Simon Nilsson <simon.nilsson@videocent.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonnilsson/power-control/issues"
+  },
+  "homepage": "https://github.com/simonnilsson/power-control#readme",
+  "engines": {
+    "node": "*"
+  }
+}
